@@ -3,7 +3,7 @@
 
 - 🌱Learning all about **Telecommunications Systems, Network and Web development**
 
-- 💬 Ask me about **Python, C++, HTML, MYSQL**
+- 💬 Ask me about **Python, C++, HTML, CSS, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
